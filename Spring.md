@@ -102,4 +102,4 @@ update account set money=money-100 where name=’A’;
 
 ## 以Mybatis为例，声明式事务配置的二种方案
 
-
+Typora
